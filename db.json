@@ -1,0 +1,76 @@
+{
+  "marley": [
+    {
+      "id": 1,
+      "name": "Reiner Braun",
+      "info": "August 1st",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/564x/63/a6/5b/63a65b6561e42e662015dcad9898818e.jpg",
+      "description": "He is a former member of the Survey Corps. He possesses the ability to transform into a Titan and serves a unit of Marley soldiers known as Warriors. In 845, he infiltrated the walls with a mission to find and seize power from the Founding Titan. He has mental and physical strength, his companions fully trust him, but his attitude can be confusing."
+    },
+    {
+      "id": 2,
+      "name": "Annie Leonhart",
+      "info": "March 22th",
+      "gender": "Female",
+      "img": "https://i.pinimg.com/564x/91/37/06/9137068743f8dc740196af4a32906b85.jpg",
+      "description": "She possesses the ability to transform into a Titan and serves a unit of Marley soldiers known as Warriors. She is considered a lonely and unfriendly girl. She is listless and sleepy, with little desire to push herself in any of the disciplines. Although her combat skills are exceptional, she does not work well as part of the team, she is a lone wolf."
+    },
+    {
+      "id": 3,
+      "name": "Bertolt Hoover",
+      "info": "December 30th",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/236x/5c/c8/89/5cc889ce0647bbb682fac4f81f03b347.jpg",
+      "description": "He possessed the ability to transform into a Titan and served a unit of Marley soldiers known as warriors. Bertolt was the bearer of the Colossal Titan, a 60-meter-tall giant capable of peering over walls effortlessly. He is very talented but lacks initiative, is somewhat reserved, and tends to follow others due to his weak will. "
+    },
+    {
+      "id": 4,
+      "name": "Pieck Finger",
+      "info": "August 5th",
+      "gender": "Female",
+      "img": "https://i.pinimg.com/564x/d2/ed/7d/d2ed7d4d686788558da645cb0cc6e7eb.jpg",
+      "description": "Pieck is praised for his intellect and ability to deduce consequences from the facts presented to him. As a Titan, he demonstrates immense speed and technical advantage for communication, carrying the essentials on his back for several days. She is a Marley warrior, capable of strategizing in any situation and also possessing the cargo titan."
+    },
+    {
+      "id": 5,
+      "name": "Zeke Jeager",
+      "info": "August 1st",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/564x/b5/07/34/b5073437badfb4a75c2af3702f175048.jpg",
+      "description": "Zeke possesses numerous abnormal traits compared to other Shifting Titans. The most prominent is the ability to speak human language fluently and smoothly in his Titan form, casually speaking or giving orders to other Titans. Former Captain of the Warriors Unit and the current heir to the Titan Beast, defined as the most powerful warrior."
+    },
+    {
+      "id": 6,
+      "name": "Gabi Braun",
+      "info": "April 14th",
+      "gender": "Female",
+      "img": "https://i.pinimg.com/564x/a8/98/85/a898857d25cfc6e0f7fc34aaa7b4bdb0.jpg",
+      "description": "Part of Marley's service warriors program, Gabi has received extensive military training. He demonstrated his ingenuity by tying several grenades to create a much more powerful explosive, which he used to shoot down Fort Slava's armored train. Candidate for warrior in the service of the Marley government. She is a candidate to inherit the power of the Armored Titan."
+    },
+    {
+      "id": 7,
+      "name": "Porco Galliard",
+      "info": "November 11th",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/564x/ef/7c/74/ef7c747101a312e159e00451103a688b.jpg",
+      "description": "Galliard is capable of transforming into a five meter tall titan, known as the Jaw Titan. In his Titan form, Galliard possesses incredible agility, being able to leap great distances to take his enemies by surprise. Eldian warrior in the service of Marley's government, he is Marcel's brother and one of the nine changing titans."
+    },
+    {
+      "id": 8,
+      "name": "Falco Grice",
+      "info": "February 10th",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/564x/04/72/80/047280e9ba619e600ebac555771d2398.jpg",
+      "description": "Falco was transformed into a Titan by Zeke Jaeger after accidentally ingesting his spinal fluid. In this form, he is close to the height of the Armored Titan and maintains the same thinness, Falco Grice has received extensive military training. Eldian warrior in the service of the Marley government, Falco Grice is currently the holder of the titan jaw."
+    },
+    {
+      "id": 9,
+      "name": "Colt Grice",
+      "info": "August 12th",
+      "gender": "Male",
+      "img": "https://i.pinimg.com/564x/56/eb/c6/56ebc6bdf9c9b3d9d308a776fbccd9e1.jpg",
+      "description": "As part of Marley's Eldian Warriors in Service program, Colt has received extensive military training. His abilities during his training as a warrior were exceptional, so much so that he would have inherited the power of the Beast Titan. Eldian warrior in the service of the Marley government, he is Falco's older brother and possesses quite a bit of determination."
+    }
+  ]
+}
